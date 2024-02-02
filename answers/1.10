@@ -1,0 +1,2 @@
+docker exec -it 5e29ca30a400 /bin/bash
+and the OS here is Debian GNU/Linux 12
